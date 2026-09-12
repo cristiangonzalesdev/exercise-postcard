@@ -1,12 +1,9 @@
 body {
+    font-family: 'Molle', sans-serif;
 	background: black;
 }
-* {
-	border: 1px dashed red;
-	min-height: 10px;
-}
 .postcard {
-	background: white;
+	background: rgb(75, 152, 224);
 	width: 400px;
 	height: 300px;
 	margin: auto;
@@ -34,7 +31,7 @@ body {
 }
 input {
 	border: none;
-	border-bottom: gray;
+	border-bottom: rgb(26, 170, 139);
 }
 .body-left p {
 	font-size: medium;
@@ -44,5 +41,5 @@ input {
 }
 button {
 	padding: 5px;
-	background-color: gray;
+	background-color: rgb(50, 114, 235);
 }
